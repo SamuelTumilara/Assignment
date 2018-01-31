@@ -1,0 +1,21 @@
+
+img{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+
+}
+
+.container{
+    grid-template-columns: 20% 80%;
+    display: grid;
+}
+
+body{
+	background-color: gray;
+
+}
+a{
+	color: blue;
+	
+}
